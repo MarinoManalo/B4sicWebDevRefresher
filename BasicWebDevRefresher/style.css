@@ -17,6 +17,9 @@ body{
     text-align: center;
    
 }
+.name{
+    font-size: 35px;
+}
 .container1{
     width: 100%;
     height: auto; 
@@ -36,10 +39,24 @@ p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 17px;
 }
+h2{
+    font-size: 26px;
+}
+h3{
+    font-family: serif;
+      font-size: 23px;
+}
+.contact{
+    font-size: 23px;
+}
+a{
+    text-decoration: none;
+    
+}
 
 
-.comment-box 
-{
+
+.comment-box{
     width: 100%;
     max-width: 900px;
     margin: auto;
